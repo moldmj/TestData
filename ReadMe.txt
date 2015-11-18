@@ -1,5 +1,4 @@
-Test Local
 
 set path=D:\Projects\Git\Git\bin;%path%
 
-Test gita
+Test (insert github) gita
