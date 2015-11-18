@@ -2,4 +2,4 @@ Test Local
 
 set path=D:\Projects\Git\Git\bin;%path%
 
-next
+Test gita
