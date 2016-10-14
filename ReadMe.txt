@@ -1,5 +1,5 @@
-
+п»ї
 set path=D:\Projects\Git\Git\bin;%path%
 
 Test (insert github) gita
-НЕмного из Ветки 1
+РќР•РјРЅРѕРіРѕ РёР· Р’РµС‚РєРё 1
